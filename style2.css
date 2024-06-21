@@ -3,7 +3,6 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-color: beige;
-    background-attachment: fixed;
 }
 #menu{
     display: flex;
